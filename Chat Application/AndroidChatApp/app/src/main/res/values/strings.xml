@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidChatApp</string>
+    <string name="login_name">Login</string>
+    <string name="room_name">Room</string>
+    <string name="login_button">Button</string>
+    <string name="msg_pane">\"\"</string>
+    <string name="input_msg">Enter Message Here</string>
+    <string name="submit_msg_button">Button</string>
+</resources>
